@@ -66,6 +66,7 @@
   "dependencies": {
     "@types/lodash": "^4.14.62",
     "lodash": "^4.17.5",
+    "lodash-es": "^4.17.11",
     "mobx": "^3.6.2",
     "mobx-angular": "2.1.1"
   },

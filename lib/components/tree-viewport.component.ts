@@ -4,7 +4,7 @@ import {
 import { TreeVirtualScroll } from '../models/tree-virtual-scroll.model';
 import { TREE_EVENTS } from '../constants/events';
 import { Cancelable } from 'lodash';
-import throttle from 'lodash/throttle';
+import throttle from 'lodash-es/throttle';
 
 @Component({
   selector: 'tree-viewport',
